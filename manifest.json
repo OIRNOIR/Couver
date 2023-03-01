@@ -1,0 +1,18 @@
+{
+    "id": "dev.oirnoir.couver",
+    "name": "Couver",
+    "description": "A new look to discord",
+    "author": {
+        "name": "A user#8169, Nyria#3863, OIRNOIR#0032",
+        "discordID": "720842469024989195",
+        "github": "OIRNOIR"
+    },
+    "version": "0.0.1",
+    "updater": {
+        "type": "github",
+        "id": "OIRNOIR/Couver"
+    },
+    "license": "MIT",
+    "type": "replugged-theme",
+    "main": "src/main.css"
+}
