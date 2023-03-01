@@ -508,9 +508,6 @@
 :root .attachButtonPlus-3IYelE, :root .attachButton-_ACFSu:hover .attachButtonPlus-3IYelE {
   fill: var(--main-color);
 }
-:root .channelTextAreaDisabled-1p2fQv {
-  display: none;
-}
 :root .form-3gdLxP:before {
   background: linear-gradient(180deg, transparent 0, var(--background-primary));
 }
