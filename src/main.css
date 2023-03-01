@@ -2193,9 +2193,6 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-2yBXZl {
   left: 0;
   background: linear-gradient(180deg, var(--background-tertiary), transparent);
 }
-.platform-osx .avatarWrapper-1B9FTW[aria-expanded=true] {
-  margin-top: 35px;
-}
 .platform-osx .avatarWrapper-1B9FTW[aria-expanded=true] + .nameTag-sc-gpq {
   margin-top: 108px !important;
 }
@@ -2956,6 +2953,9 @@ html:not(.platform-linux) body:not(.maximized).transparent .appMount-2yBXZl {
 }
 :root ul[data-list-id=guildfoldersnav] {
   margin-top: 12px;
+}
+:root #channels ul {
+	height: unset;
 }
 
 /* Settings */
